@@ -1,1 +1,1 @@
-# Kaggle_Titanic
+# Kaggle Competition: Titanic Survival Prediction
