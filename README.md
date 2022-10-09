@@ -3,6 +3,7 @@
 This is my submission for the Kaggle competition 
 https://www.kaggle.com/competitions/titanic, 
 
-where I predicted each passenger's survival on Titanic using different ML models.
+where I predicted each passenger's survival on Titanic using different ML models 
 
+(Logistic Regression / Random Forest / Support Vector Machine).
 
